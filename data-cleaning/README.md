@@ -1,1 +1,1 @@
-This folder contains labs related to data cleaning techniques.
+Documents and spreadsheets for data cleaning exercises.
